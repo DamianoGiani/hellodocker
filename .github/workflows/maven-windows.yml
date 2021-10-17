@@ -5,7 +5,7 @@ name: Java CI with Maven and Docker in Windows
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
 
 jobs:
